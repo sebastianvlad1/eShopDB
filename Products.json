@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "5fc4fa3c3f7adeb7c2f72037"
+  },
+  "productName": "TV1",
+  "productDescription": "descriere1",
+  "category": "Electrocasnice",
+  "onsale": false,
+  "pret": 479
+},{
+  "_id": {
+    "$oid": "5fc4fa67582f531d3bb34263"
+  },
+  "productName": "Samsung s10",
+  "productDescription": "Descriere2",
+  "category": "Telefoane",
+  "onsale": false,
+  "pret": 3100
+},{
+  "_id": {
+    "$oid": "5fc4fa82bb153cba7f31903f"
+  },
+  "productName": "Iphone 11",
+  "productDescription": "A14 Bionic. Design complet nou. Ceramic Shield. Scaner LiDAR. Un sistem de camere Pro, optimizat pentru mediile slab iluminate- chiar și mai evoluat pe iPhone 12 Pro Max. Ecranul dispozitivului are colțuri rotunjite care urmează un superb design curbat, acestea înscriindu-se într-un dreptunghi standard. Atunci când este măsurat ca o formă standard de dreptunghi, ecranul are o diagonală de 5,42 inchi (iPhone 12 mini), 6,06 inchi (iPhone 12 Pro, iPhone 12, iPhone 11) sau 6,68 inchi (iPhone 12 Pro Max). Zona de vizualizare efectivă este mai mică.Am pus creierul iPhone 11 Pro in corpul iPhone SE 2. A13 Biomic e cel mai rapid cip pe care l-a avut vreodata un smartphone. Punct. Asa ca totul se misca natural, indiferent ca lansezi aplicatii, joci jocuri de ultima ora sau incerci moduri de a lucra si a te juca in realitatea augmentata.",
+  "category": "Telefoane",
+  "onsale": false,
+  "pret": 4050
+},{
+  "_id": {
+    "$oid": "5fc4fc1b3b52e77a3b8dfe91"
+  },
+  "productName": "Asus Rog 90x",
+  "productDescription": "Modelul ROG Strix G15 reprezinta emblema stilului elegant si subtil, oferind o experienta de utilizare formidabila pentru jocuri foarte serioase. Fiind echipat cu procesoare pana la cele mai noi Intel® Core™ i7 de Generatia 10 si un GPU GeForce RTX 2060, modelul ofera valorie FPS foarte ridicate de care vei putea profita pe deplin cu ajutorul afisajului extraordinar de rapid la 144Hz. Inovatiile sistemului de racire inteligent, cum ar fi pasta termica din metal lichid, duc performantele la urmatorul nivel. Solutia de conectivitate Wi-Fi 6 ultra-rapida si cele pana la 2 SSD-uri ruland in configuratie RAID 0 accelereaza performantele, atat in jocuri cat si in sarcinile de utilizare zilnica. Dispui chiar si de spatiu pentru adaugarea unui al treilea SSD, astfel incat vei putea imbunatati capacitatea de stocare pentru a iti putea transporta intreaga colectie de jocuri oriunde te-ai duce.",
+  "category": "Laptopuri",
+  "onsale": false,
+  "pret": 5500
+},{
+  "_id": {
+    "$oid": "5fce63ef324979c5507169e4"
+  },
+  "productName": "Tableta Huawei",
+  "productDescription": "Tableta de generatie noua bla bla bla",
+  "category": "Tablete",
+  "onsale": false,
+  "pret": 2150
+},{
+  "_id": {
+    "$oid": "5ff1b9cc9b24d05381c5a9a4"
+  },
+  "productName": "Incarcator",
+  "productDescription": "Incarcator Type-C fast charging Samsung",
+  "category": "Lichidari",
+  "onsale": true,
+  "pret": 58
+},{
+  "_id": {
+    "$oid": "5ff1e1efb433acc5cd3121e1"
+  },
+  "productName": "PlayStation 4",
+  "productDescription": "PlayStation 4 Slim 500GB",
+  "category": "Lichidari",
+  "onsale": true,
+  "pret": 899
+},{
+  "_id": {
+    "$oid": "5ff21d87300198d28a26486a"
+  },
+  "productName": "Xbox 360",
+  "productDescription": "Xbox 360 made by Microsoft 1TB spatiu de stocare",
+  "category": "Gaming",
+  "onsale": false,
+  "pret": 1200
+},{
+  "_id": {
+    "$oid": "5ff21e589954883f5bd81555"
+  },
+  "productName": "Casti Wireless",
+  "productDescription": "Casti Beats by Dre true wireless",
+  "category": "Accesorii",
+  "onsale": false,
+  "pret": 599
+},{
+  "_id": {
+    "$oid": "5ff21f1675375c866ff667cc"
+  },
+  "productName": "Casti cu Fir",
+  "productDescription": "Casti cu fir by Apple",
+  "category": "Accesorii",
+  "onsale": false,
+  "pret": 48
+},{
+  "_id": {
+    "$oid": "5ff21ffca214f1b76e522a9a"
+  },
+  "productName": "Lenovo Legion",
+  "productDescription": "Lenovo Legion y520 laptop de gaming i5-7800HQ, GTX 1060 4gb, 16gb ram",
+  "category": "Laptopuri",
+  "onsale": false,
+  "pret": 3999
+}]

@@ -1,0 +1,554 @@
+[{
+  "_id": {
+    "$oid": "5fcce8250c71f37f76af2739"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "nume": "user",
+  "adresa": "strada x nr y",
+  "plata": "ramburs",
+  "status": "comanda plasata",
+  "data": {
+    "$date": "2020-12-06T14:18:13.867Z"
+  },
+  "suma": 19108,
+  "produse": [
+    {
+      "denumire": "Asus Rog 90x",
+      "pret": 5500,
+      "numar": 2
+    },
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 2
+    },
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 1
+    },
+    {
+      "denumire": "Iphone 11",
+      "pret": 4050,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fcd00b3884a3a2a761515a8"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "nume": "user",
+  "adresa": "asdadasdasdad",
+  "plata": "ramburs",
+  "status": "comanda plasata",
+  "data": {
+    "$date": "2020-12-06T16:02:59.199Z"
+  },
+  "suma": 19108,
+  "produse": [
+    {
+      "denumire": "Asus Rog 90x",
+      "pret": 5500,
+      "numar": 2
+    },
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 2
+    },
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 1
+    },
+    {
+      "denumire": "Iphone 11",
+      "pret": 4050,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fcd018e884a3a2a761515a9"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "nume": "user",
+  "adresa": "asdadsad",
+  "plata": "card",
+  "status": "comanda plasata",
+  "data": {
+    "$date": "2020-12-06T16:06:38.937Z"
+  },
+  "suma": 19108,
+  "produse": [
+    {
+      "denumire": "Asus Rog 90x",
+      "pret": 5500,
+      "numar": 2
+    },
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 2
+    },
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 1
+    },
+    {
+      "denumire": "Iphone 11",
+      "pret": 4050,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fcd01f3884a3a2a761515aa"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "nume": "user",
+  "adresa": "asdadasda",
+  "plata": "ramburs",
+  "status": "comanda plasata",
+  "data": {
+    "$date": "2020-12-06T16:08:19.668Z"
+  },
+  "suma": 15750,
+  "produse": [
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 2
+    },
+    {
+      "denumire": "Iphone 11",
+      "pret": 4050,
+      "numar": 1
+    },
+    {
+      "denumire": "Asus Rog 90x",
+      "pret": 5500,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fcd021b884a3a2a761515ab"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "nume": "user",
+  "adresa": "adresa",
+  "plata": "card",
+  "status": "comanda plasata",
+  "data": {
+    "$date": "2020-12-06T16:08:59.193Z"
+  },
+  "suma": 9779,
+  "produse": [
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 1
+    },
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fcd0230884a3a2a761515ac"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "nume": "user",
+  "adresa": "asdadasda",
+  "plata": "ramburs",
+  "status": "comanda plasata",
+  "data": {
+    "$date": "2020-12-06T16:09:20.147Z"
+  },
+  "suma": 958,
+  "produse": [
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fce622d936b97eebb5bc37c"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "nume": "user",
+  "adresa": "str. bla bla bloc C nr.1231231",
+  "plata": "card",
+  "status": "comanda plasata",
+  "data": {
+    "$date": "2020-12-07T17:11:09.752Z"
+  },
+  "suma": 28400,
+  "produse": [
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 3
+    },
+    {
+      "denumire": "Iphone 11",
+      "pret": 4050,
+      "numar": 2
+    },
+    {
+      "denumire": "Asus Rog 90x",
+      "pret": 5500,
+      "numar": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fce662e324979c5507169e5"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "nume": "user",
+  "adresa": "asdadasdasdadasdada",
+  "plata": "card",
+  "status": "comanda plasata",
+  "data": {
+    "$date": "2020-12-07T17:28:14.505Z"
+  },
+  "suma": 2629,
+  "produse": [
+    {
+      "denumire": "Tableta Huawei",
+      "pret": 2150,
+      "numar": 1
+    },
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fcf7350105c34326d2698ce"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "nume": "user",
+  "adresa": "adsdadasdsa",
+  "plata": "ramburs",
+  "status": "comanda plasata",
+  "data": {
+    "$date": "2020-12-08T12:36:32.976Z"
+  },
+  "suma": 9558,
+  "produse": [
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 1
+    },
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 2
+    },
+    {
+      "denumire": "Asus Rog 90x",
+      "pret": 5500,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fcf80ed105c34326d2698cf"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "nume": "user",
+  "adresa": "asasdada",
+  "plata": "card",
+  "status": "comanda plasata",
+  "data": {
+    "$date": "2020-12-08T13:34:37.565Z"
+  },
+  "suma": 15750,
+  "produse": [
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 2
+    },
+    {
+      "denumire": "Iphone 11",
+      "pret": 4050,
+      "numar": 1
+    },
+    {
+      "denumire": "Asus Rog 90x",
+      "pret": 5500,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff1e753b433acc5cd3121e2"
+  },
+  "ownerId": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "nume": "user1",
+  "adresa": "str. Papadiilor nr. 17",
+  "plata": "ramburs",
+  "status": "Finalizata",
+  "data": {
+    "$date": "2021-01-03T15:48:35.492Z"
+  },
+  "suma": 3100,
+  "produse": [
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff1fd230b3fabdb01983907"
+  },
+  "ownerId": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "nume": "user1",
+  "adresa": "str. Papadiilor nr. 18",
+  "plata": "ramburs",
+  "status": "In curs de expediere",
+  "data": {
+    "$date": "2021-01-03T17:21:39.226Z"
+  },
+  "suma": 595,
+  "produse": [
+    {
+      "denumire": "Incarcator",
+      "pret": 58,
+      "numar": 2
+    },
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff21a7ef47a6cf363f0c0fb"
+  },
+  "ownerId": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "nume": "user1",
+  "adresa": "str. Papadiilor nr. 18",
+  "plata": "ramburs",
+  "status": "Comanda plasata",
+  "data": {
+    "$date": "2021-01-03T19:26:54.783Z"
+  },
+  "suma": 1798,
+  "produse": [
+    {
+      "denumire": "PlayStation 4",
+      "pret": 899,
+      "numar": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff21d16f47a6cf363f0c0fc"
+  },
+  "ownerId": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "nume": "user1",
+  "adresa": "str. Papadiilor nr. 18",
+  "plata": "ramburs",
+  "status": "Comanda plasata",
+  "data": {
+    "$date": "2021-01-03T19:37:58.655Z"
+  },
+  "suma": 4478,
+  "produse": [
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 1
+    },
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 1
+    },
+    {
+      "denumire": "PlayStation 4",
+      "pret": 899,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff21e8a9954883f5bd81556"
+  },
+  "ownerId": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "nume": "user1",
+  "adresa": "str. Papadiilor nr. 18",
+  "plata": "ramburs",
+  "status": "Comanda plasata",
+  "data": {
+    "$date": "2021-01-03T19:44:10.634Z"
+  },
+  "suma": 3598,
+  "produse": [
+    {
+      "denumire": "Xbox 360",
+      "pret": 1200,
+      "numar": 2
+    },
+    {
+      "denumire": "Casti Wireless",
+      "pret": 599,
+      "numar": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff220be852c0e9fa12892aa"
+  },
+  "ownerId": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "nume": "user1",
+  "adresa": "str. Papadiilor nr. 18",
+  "plata": "ramburs",
+  "status": "Comanda plasata",
+  "data": {
+    "$date": "2021-01-03T19:53:34.972Z"
+  },
+  "suma": 1437,
+  "produse": [
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff31b557d2dde0fc173f2f1"
+  },
+  "ownerId": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "nume": "user1",
+  "adresa": "str. Papadiilor nr. 18",
+  "plata": "ramburs",
+  "status": "Comanda plasata",
+  "data": {
+    "$date": "2021-01-04T13:42:45.035Z"
+  },
+  "suma": 7099,
+  "produse": [
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 2
+    },
+    {
+      "denumire": "PlayStation 4",
+      "pret": 899,
+      "numar": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff3225ad7687c9ba998a90f"
+  },
+  "ownerId": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "nume": "user1",
+  "adresa": "str. Papadiilor nr. 18",
+  "plata": "ramburs",
+  "status": "Comanda plasata",
+  "data": {
+    "$date": "2021-01-04T14:12:42.208Z"
+  },
+  "suma": 14579,
+  "produse": [
+    {
+      "denumire": "Samsung s10",
+      "pret": 3100,
+      "numar": 1
+    },
+    {
+      "denumire": "TV1",
+      "pret": 479,
+      "numar": 1
+    },
+    {
+      "denumire": "Asus Rog 90x",
+      "pret": 5500,
+      "numar": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff460714769940fa63b0839"
+  },
+  "ownerId": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "nume": "user1",
+  "adresa": "str. Papadiilor nr. 18",
+  "plata": "card",
+  "status": "Comanda plasata",
+  "data": {
+    "$date": "2021-01-05T12:49:53.346Z"
+  },
+  "suma": 15050,
+  "produse": [
+    {
+      "denumire": "Iphone 11",
+      "pret": 4050,
+      "numar": 1
+    },
+    {
+      "denumire": "Asus Rog 90x",
+      "pret": 5500,
+      "numar": 2
+    }
+  ]
+}]

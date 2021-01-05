@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5fc3b6b97865b33b5a083339"
+  },
+  "ownerId": {
+    "$oid": "5fc3b6b97865b33b5a083338"
+  },
+  "cartItems": [
+    {
+      "productId": {
+        "$oid": "5ff1b9cc9b24d05381c5a9a4"
+      },
+      "number": 1
+    },
+    {
+      "productId": {
+        "$oid": "5fc4fc1b3b52e77a3b8dfe91"
+      },
+      "number": 1
+    },
+    {
+      "productId": {
+        "$oid": "5fc4fa67582f531d3bb34263"
+      },
+      "number": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fc3b9abb26df6491a17dc15"
+  },
+  "ownerId": {
+    "$oid": "5fc3b9abb26df6491a17dc14"
+  },
+  "cartItems": []
+},{
+  "_id": {
+    "$oid": "5fc3c68ba73ba893ad9e58d9"
+  },
+  "ownerId": {
+    "$oid": "5fc3c68ba73ba893ad9e58d8"
+  },
+  "cartItems": [
+    {
+      "productId": {
+        "$oid": "5fc4fa3c3f7adeb7c2f72037"
+      },
+      "number": 2
+    },
+    {
+      "productId": {
+        "$oid": "5fc4fc1b3b52e77a3b8dfe91"
+      },
+      "number": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff1d8be6c128e924b7d8926"
+  },
+  "ownerId": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "cartItems": []
+}]

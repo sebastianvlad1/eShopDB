@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "5ff1d8be6c128e924b7d8925"
+  },
+  "username": "user1",
+  "password": "user1",
+  "email": "user@gmail.com",
+  "role": "user",
+  "adresa": "str. Papadiilor nr. 18",
+  "codPostal": "410286",
+  "tara": "Romania",
+  "judet": "Bihor",
+  "oras": "Oradea"
+}]
